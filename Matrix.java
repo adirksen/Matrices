@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Implementation of a 2D Mathematical Matrix
  * - includes functionality for multiplying and adding matrices
  *
- * @author Miriah Meyer & Anthony Dirksen
+ * @author MEME DREAM TEAM & Anthony Dirksen
  * @version January 11, 2018
  */
 public class Matrix {
